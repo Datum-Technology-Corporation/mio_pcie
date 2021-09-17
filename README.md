@@ -1,2 +1,4 @@
-# Moore.io PCIe IP Project
-Moore.io's collection of PCIe IP, VIP & Script packages.
+# Moore.io PCIe IP
+
+# About
+Moore.io's collection of PCI Express (PCIe) RTL, DV & EDApp IP.
